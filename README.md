@@ -1,2 +1,2 @@
 # js-algorithms-challenges
-The Coding Interview Bootcamp: Algorithms + Data Structures
+Based on the course: The Coding Interview Bootcamp: Algorithms + Data Structures
